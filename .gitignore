@@ -1,0 +1,4 @@
+node_modules
+eng.traineddata
+debug.log
+config.json

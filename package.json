@@ -1,0 +1,26 @@
+{
+  "name": "drivebackup-discord-ocr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhld16/drivebackup-discord-ocr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhld16/drivebackup-discord-ocr/issues"
+  },
+  "homepage": "https://github.com/rhld16/drivebackup-discord-ocr#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "get-image-colors": "^4.0.0",
+    "node-fetch": "^3.1.0",
+    "tesseract.js": "^2.1.5",
+    "yaml-doctor": "^0.2.0"
+  }
+}
